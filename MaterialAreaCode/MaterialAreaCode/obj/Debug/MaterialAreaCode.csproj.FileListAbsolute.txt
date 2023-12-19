@@ -87,3 +87,5 @@ D:\임시프로그램_Ver5\MaterialAreaCode\MaterialAreaCode\obj\Debug\MaterialA
 D:\임시프로그램_Ver5\MaterialAreaCode\MaterialAreaCode\obj\Debug\MaterialAreaCode.pdb
 C:\Users\qkrgu\OneDrive\문서\Visual Studio 2015\Projects\MaterialAreaCode\MaterialAreaCode\obj\Debug\MaterialAreaCode.exe
 C:\Users\qkrgu\OneDrive\문서\Visual Studio 2015\Projects\MaterialAreaCode\MaterialAreaCode\obj\Debug\MaterialAreaCode.pdb
+C:\Users\qkrgu\Source\MaterialAreaCode\MaterialAreaCode\obj\Debug\MaterialAreaCode.exe
+C:\Users\qkrgu\Source\MaterialAreaCode\MaterialAreaCode\obj\Debug\MaterialAreaCode.pdb
